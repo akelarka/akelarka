@@ -1,7 +1,7 @@
 [![StandsWithUkraine](https://raw.githubusercontent.com/Drag13/drag13.github.io/development/swu.PNG)](https://savelife.in.ua/en/donate/)
 <h1>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+I'm+D.+Akelar+%F0%9F%9A%80">
     <picture>
-        [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=4995D3&width=435&lines=Hi%2C+I'm+D.+Akelar+%F0%9F%9A%80)](https://git.io/typing-svg)
         <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+I'm+D.+Akelar+%F0%9F%9A%80">
         <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000000&width=435&lines=Hi%2C+I'm+D.+Akelar+%F0%9F%9A%80">
         <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=Hi%2C+I'm+D.+Akelar+%F0%9F%9A%80">
